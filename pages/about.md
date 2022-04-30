@@ -1,48 +1,17 @@
 ---
 layout: page
-title: What is Wax?
+title: Web Development Sketchbook
 permalink: /about/
 ---
 
-**Wax helps you create digital exhibits.**   
+**What is the purpose of classroom notes?**   
 A digital exhibit is a collection of curated cultural artifacts—manuscripts, paintings, photographs, sculptures, etc—often accompanied by an explicit narrative or argument. Though Wax focuses on images and text, it could be used for sound or video collections with some customization.
 
-**Wax is an extensible workflow based on minimal computing principles.**  
-Wax is hyper-aware of differences in resources, control and access around the world and close to home. As a result, it is purposefully lightweight: a few Ruby gems, some customizable UI components, good documentation and (hopefully soon!) recipes for creating, deploying, and maintaining custom digital exhibitions.
+**How do we pay attention as we acquire digital skills?**  
+Sometimes the possibility of keeping things organized on a computer feels so tantalizingly possible. We sense the structure and hierarchies built into our digital tools, and we sit sometimes unknowingly on the passive training we have from platforms that enforce rules as we submit our data to them. When I stop to think, it boggles my mind the myriad ways we migrate our schedules and records to and from digital spaces.
 
-**The exhibition sites created by Wax are static.**  
-This means they consist of flat HTML, CSS, and JavaScript files that don't need to communicate in a complex way back to a server. This makes them cheaper, safer, and generally easier to maintain.
+**What are these drawings?**  
+These drawings are my notes. Records? To absorb information and set myself reminders, I write down salient points. Is the act of writing the part that makes the memory? Or is it in revisiting? How often do I look through the piles of drawings strewn about my apartment?
 
-**The skills needed to create Wax sites are agnostic.**  
-This means they are largely transferable for use in other digital projects. 'Learning Wax' does not mean learning how to use a platform. It involves learning the fundamentals of web development, data management, and [plain text editing](https://zapier.com/blog/beginner-ultimate-guide-markdown/) while leveraging a few great open source libraries and frameworks along the way.
-
-**Wax keeps the collection presentation separate from the collection data.**  
-The Wax workflow starts with making standardized image files and metadata records and builds around them, handling canonical information, scholarly content, and site styling differently and deliberately. This makes it easier for you or others to share, reuse and reimagine your collection data in other contexts.
-
-## Who is Wax for?
-
-Wax was created for individuals and groups who either don't have or don't want to use a lot of resources to create their scholarly or cultural exhibits. It's best suited for folks who are willing to take on some technical responsibility in exchange for a lot of flexibility.
-
-For beginners, Wax has a relatively high, but general-purpose learning curve. To get the most out of Wax, you should have some familiarity with:
-
-- Using an interactive shell (e.g., Bash/Terminal) to install and interact with programs, files, and directories on your local computer.
-- Using Git and GitHub to version control and collaborate on projects.
-- Using Jekyll to generate static sites.
-- Creating and normalizing data files (e.g., CSV, JSON, YAML)
-- Using file-naming conventions and best practices.
-- Editing HTML, CSS, and some JavaScript.
-
-**However, Wax is also great for teaching or learning the skills above!** For examples of digital pedagogy via the creation of Wax exhibitions, check out [this workshop](https://www.columbia.edu/content/events/introduction-minimal-computing-humanities-building-exhibit-primary-sources-using-wax), [this GitHub repository](https://github.com/stylerevolution/stylerevolution.github.io), and [this custom Wax site](https://stylerevolution.github.io/).
-
-**Wax is also phenomenal for professionals who play a facilitating role**, such as Digital Scholarship Librarians or Coordinators. With some practice, Wax substantially reduces the time to production and post-production maintenance costs for you and your team. In the most common scenario, students, faculty, colleagues or any other collaborators just have to provide you with a properly formatted spreadsheet and the text for the exhibits. The extras are up to you.
-
-
-## So what does the Wax workflow *look like?*
-
-Below is a diagram to give you a zoomed-out view. In summary, you create a file of metadata records for your collection (in CSV, YAML, or JSON format), organize your collection image files, and put both in the Jekyll site folder. After updating your configuration, you run a few command line tasks to prepare the data and metadata for use by the Jekyll site. Jekyll then uses special layouts and Wax components to build the exhibit and spits them out as static pages ready to publish.
-
-From there, you can run tests on your site to catch errors and decide where and how to put it online or in offline media.
-
-<a href="{{ '/img/wax_workflow.jpg' | absolute_url }}">
-  <img src="{{ '/img/wax_workflow.jpg' | absolute_url }}"/>
-</a>
+**Why portraits?**  
+I draw what I see and in most cases, my mind is keyed onto the people around me. I see digital tools as places that different people meet and attempt to work out their psychologies. Portraits may be the face of these different psychologies. How people fill a room, I think, relates to how they organize pages on a website. Maybe I draw people's faces to try to understand their sensations. Or to think about how they are gathering information from the world around them. In her essay "On Being Ill," Virginia Woolf talks about the inescapability of the body, its capacity to sharpen or blunt mental perception. Portraits are part of that for me. 
