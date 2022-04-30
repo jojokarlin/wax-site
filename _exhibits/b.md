@@ -2,7 +2,6 @@
 layout: exhibit
 title: 'Exhibit B: Inline Image References'
 author: Jojo Karlin
-publish_date: 2022-O4-30
 permalink: /exhibits/b/
 ---
 
