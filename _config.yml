@@ -20,7 +20,7 @@
 
 title:            'Web Development Sketchbook'
 description:      'Jojo Karlin's drawings from Spring 2022'
-url:              'https://wax.jk7241.hosting.nyu.edu'
+url:              ''
 baseurl:          '/wax'
 copyright:        'copyright Jojo Karlin, 2022'
 logo:             '/assets/logo.png'
@@ -67,11 +67,11 @@ collections:
     output: true
   qatar: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'img_item' # the layout for the pages to use
+    layout: 'sketches_item' # the layout for the pages to use
     metadata:
-      source: 'img.csv' # path to the metadata file within `_data`
+      source: 'sketches.csv' # path to the metadata file within `_data`
     images:
-      source: 'raw_images/img' # path to the directory of images within `_data`
+      source: 'raw_images/sketches' # path to the directory of images within `_data`
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
