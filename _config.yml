@@ -65,7 +65,7 @@ kramdown:
 collections:
   exhibits:
     output: true
-  qatar: # name of collection
+  sketches: # name of collection
     output: true # makes sure pages are output as html files
     layout: 'sketches_item' # the layout for the pages to use
     metadata:
