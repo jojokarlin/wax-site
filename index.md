@@ -14,4 +14,4 @@ The images collected here are Jojo Karlin's semester of sketches. See more of he
 
 ### Browse the Collection
 
-{% include collection_gallery.html facet_by='__date_' collection='sketches' %}
+{% include collection_gallery.html facet_by='_date' collection='sketches' %}
