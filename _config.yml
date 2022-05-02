@@ -85,12 +85,11 @@ search:
   main:
     index: '/search/index.json' # file the index will get written to
     collections:
-      qatar:
+      sketches:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
           - _date
           - speaker
-          - topics
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
@@ -102,9 +101,9 @@ search:
 menu:
   - label: 'About'
     sub:
-      - label: 'Wax'
+      - label: 'Web Dev Sketchbook'
         link: '/about/'
-      - label: 'Documentation'
+      - label: 'Wax Documentation'
         link: 'https://minicomp.github.io/wiki/wax/'
       - label: 'Credits'
         link: '/credits/'
@@ -118,8 +117,6 @@ menu:
     link: '/collection/'
   - label: 'Search'
     link: '/search/'
-  - label: 'Reuse'
-    link: '/reuse/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
@@ -128,12 +125,12 @@ menu:
 
 footer:
   links:
-    - label: 'GitHub'
+    - label: 'Wax on GitHub'
       link: 'https://github.com/minicomp/wax'
     - label: 'Credits'
       link: '/credits'
-    - label: 'Contact'
-      link: 'https://gitter.im/minicomp/wax/'
+    - label: 'Instagram'
+      link: 'https://www.instagram.com/jojokarlin/'
   logos:
     - img: '/img/logo.png'
 
