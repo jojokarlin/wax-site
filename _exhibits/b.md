@@ -1,6 +1,6 @@
 ---
 layout: exhibit
-title: 'Exhibit B: Inline Image References'
+title: 'Exhibit B: Drawing a semester'
 author: Jojo Karlin
 permalink: /exhibits/b/
 ---
