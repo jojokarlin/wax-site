@@ -26,11 +26,3 @@ My basic process is this:
 - I checked that my Google sheet had all the pids that correspond to the img directory files.
 
 Now I have to see if it will work. I'm editing the markdown in the template as a "let's see what happens" sort of effort.
-
----
-
-### Notes
-
-[^1]: Do I have notes?
-
-[^2]: I'm leaving these in case they exist.

@@ -22,7 +22,7 @@ title:            'Web Development Sketchbook'
 description:      'drawings from Spring 2022 by Jojo Karlin'
 url:              'https://jojokarlin.github.io'
 baseurl:          '/wax-site'
-copyright:        'copyright Jojo Karlin, 2022'
+copyright:        'Jojo Karlin, 2022'
 logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------
