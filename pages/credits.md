@@ -4,7 +4,7 @@ title: Credits
 permalink: '/credits/'
 ---
 ## The sketches:
-The drawings on this site derive from lectures given by Zach Coble and a range of public talks given by other scholars.
+The drawings on this site, all drawn by Jojo Karlin, derive from lectures given by Zach Coble and a range of public talks given by other scholars.
 
 Lectures:
 - Web Development Class Zoom,	Zach Coble

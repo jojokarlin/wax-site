@@ -90,6 +90,7 @@ search:
         fields: # the metadata fields to index
           - _date
           - speaker
+          - topics
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
@@ -103,15 +104,13 @@ menu:
     sub:
       - label: 'Web Dev Sketchbook'
         link: '/about/'
-      - label: 'Wax Documentation'
-        link: 'https://minicomp.github.io/wiki/wax/'
       - label: 'Credits'
         link: '/credits/'
   - label: 'Exhibits'
     sub:
-      - label: 'Inline Parallax Sketch'
+      - label: 'About Process'
         link: '/exhibits/a/'
-      - label: 'Inline Image References'
+      - label: 'Drawing a Semester'
         link: '/exhibits/b/'
   - label: 'Browse'
     link: '/collection/'
@@ -125,12 +124,12 @@ menu:
 
 footer:
   links:
-    - label: 'Wax on GitHub'
-      link: 'https://github.com/minicomp/wax'
     - label: 'Credits'
       link: '/credits'
     - label: 'Instagram'
       link: 'https://www.instagram.com/jojokarlin/'
+    - label: 'Wax on GitHub'
+      link: 'https://github.com/minicomp/wax'
   logos:
     - img: '/img/logo.png'
 
