@@ -8,3 +8,5 @@ This site's collection comprises a set of images drawn during class sessions and
 
 
 {% include collection_gallery.html collection='sketches' facet_by='topics' %}
+
+{% include search_box.html search='main' %}
