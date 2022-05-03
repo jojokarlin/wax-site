@@ -87,6 +87,7 @@ header & nav bar
     .dropdown-menu {
       background-color: $bg-color;
       border-color: $neutral;
+      z-index: 100;
       .dropdown-item:focus {
         background-color: transparent;
       }
