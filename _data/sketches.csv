@@ -1,55 +1,54 @@
-done,pid,label,_date,time,speaker,topics,local_image,original_image,order,layout,collection,thumbnail,full,manifest
-TRUE,img01,Web Development Class Zoom,January 25,6:20,Zach Coble,introduction,img01.jpg,20220125-WebDevZoom.jpg,00,sketches_item,sketches,"/img/derivatives/iiif/images/img01/full/250,/0/default.jpg","/img/derivatives/iiif/images/img01/full/1140,/0/default.jpg",/img/derivatives/iiif/img01/manifest.json
-TRUE,img02,Web Development Class Zoom,February 1,6:20 PM,Zach Coble,,img02.jpg,20220201-WebDevZoom.jpg,01,sketches_item,sketches,"/img/derivatives/iiif/images/img02/full/250,/0/default.jpg","/img/derivatives/iiif/images/img02/full/1140,/0/default.jpg",/img/derivatives/iiif/img02/manifest.json
-TRUE,img03,Black Global Consciousness,February 2,10:30 AM,"Ann Morning, Angela Davis",,img03.jpg,20220202-MLKWeek-BlackGlobalConscioussness.jpg,02,sketches_item,sketches,"/img/derivatives/iiif/images/img03/full/250,/0/default.jpg","/img/derivatives/iiif/images/img03/full/1140,/0/default.jpg",/img/derivatives/iiif/img03/manifest.json
-TRUE,img04,NYCDH Week: Support,February 7,2:30 PM,,,img04.jpg,20220207-NYCDH-Support.jpg,03,sketches_item,sketches,"/img/derivatives/iiif/images/img04/full/250,/0/default.jpg","/img/derivatives/iiif/images/img04/full/1140,/0/default.jpg",/img/derivatives/iiif/img04/manifest.json
-TRUE,img05,NYCDH Week: Kickoff,February 7,12:00 PM,,,img05.jpg,20220207-NYCDHKickoff.jpg,04,sketches_item,sketches,"/img/derivatives/iiif/images/img05/full/250,/0/default.jpg","/img/derivatives/iiif/images/img05/full/1140,/0/default.jpg",/img/derivatives/iiif/img05/manifest.json
-TRUE,img06,Web Development Class Mercer,February 8,6:20 PM,Zach Coble,,img06.jpg,20220208-WebDev-Mercer.jpg,05,sketches_item,sketches,"/img/derivatives/iiif/images/img06/full/250,/0/default.jpg","/img/derivatives/iiif/images/img06/full/1140,/0/default.jpg",/img/derivatives/iiif/img06/manifest.json
-TRUE,img07,NYCDH Week: The Web Is All You Need,February 10,3:00 PM,Ben Schmidt,,img07.jpg,20220210-NYCDH-DataAnalysis-Ben.jpg,06,sketches_item,sketches,"/img/derivatives/iiif/images/img07/full/250,/0/default.jpg","/img/derivatives/iiif/images/img07/full/1140,/0/default.jpg",/img/derivatives/iiif/img07/manifest.json
-TRUE,img08,NYCDH Week: Seed to Scale,Feb 10,11:00 AM,,,img08.jpg,20220210-NYCDH-SeedtoScale.jpg,07,sketches_item,sketches,"/img/derivatives/iiif/images/img08/full/250,/0/default.jpg","/img/derivatives/iiif/images/img08/full/1140,/0/default.jpg",/img/derivatives/iiif/img08/manifest.json
-TRUE,img09,Woolf Salon: Friendships Gallery,Feb 11,4:00 PM,,,img09.jpg,20220211-WoolfSalon.jpg,08,sketches_item,sketches,"/img/derivatives/iiif/images/img09/full/250,/0/default.jpg","/img/derivatives/iiif/images/img09/full/1140,/0/default.jpg",/img/derivatives/iiif/img09/manifest.json
-TRUE,img10,Manifold Meetup,Feb 15,,,,img10.jpg,20220215-ManifoldMeetup.jpg,09,sketches_item,sketches,"/img/derivatives/iiif/images/img10/full/250,/0/default.jpg","/img/derivatives/iiif/images/img10/full/1140,/0/default.jpg",/img/derivatives/iiif/img10/manifest.json
-TRUE,img11,Web Development Class,Feb 15,,,,img11.jpg,20220215-WebDev-websitepresentation.jpg,10,sketches_item,sketches,"/img/derivatives/iiif/images/img11/full/250,/0/default.jpg","/img/derivatives/iiif/images/img11/full/1140,/0/default.jpg",/img/derivatives/iiif/img11/manifest.json
-TRUE,img12,Provost's Postdoctoral Fellow Meeting,Feb 16,,,,img12.jpg,20220216-ProvostsPostdoc.jpg,11,sketches_item,sketches,"/img/derivatives/iiif/images/img12/full/250,/0/default.jpg","/img/derivatives/iiif/images/img12/full/1140,/0/default.jpg",/img/derivatives/iiif/img12/manifest.json
-TRUE,img13,Manifold Orientation,Feb 16,,,,img13.jpg,20220217-ManifoldOrientation.jpg,12,sketches_item,sketches,"/img/derivatives/iiif/images/img13/full/250,/0/default.jpg","/img/derivatives/iiif/images/img13/full/1140,/0/default.jpg",/img/derivatives/iiif/img13/manifest.json
-TRUE,img14,Teaching Machines,Feb 17,,Audrey Watters,,img14.jpg,20220217-TeachingMachines-Watters.jpg,13,sketches_item,sketches,"/img/derivatives/iiif/images/img14/full/250,/0/default.jpg","/img/derivatives/iiif/images/img14/full/1140,/0/default.jpg",/img/derivatives/iiif/img14/manifest.json
-TRUE,img15,Multimodal Digital Publishing 1,Feb 24,,,,img15.jpg,20220224-MultimodalDigitalPublishing.jpg,14,sketches_item,sketches,"/img/derivatives/iiif/images/img15/full/250,/0/default.jpg","/img/derivatives/iiif/images/img15/full/1140,/0/default.jpg",/img/derivatives/iiif/img15/manifest.json
-TRUE,img16,Multimodal Digital Publishing 2,Feb 24,,,,img16.jpg,20220224-MultimodalDigitalPublishing1.jpg,15,sketches_item,sketches,"/img/derivatives/iiif/images/img16/full/250,/0/default.jpg","/img/derivatives/iiif/images/img16/full/1140,/0/default.jpg",/img/derivatives/iiif/img16/manifest.json
-TRUE,img17,Multimodal Digital Publishing 3,Feb 24,,,,img17.jpg,20220224-MultimodalDigitalPublishing2.jpg,16,sketches_item,sketches,"/img/derivatives/iiif/images/img17/full/250,/0/default.jpg","/img/derivatives/iiif/images/img17/full/1140,/0/default.jpg",/img/derivatives/iiif/img17/manifest.json
-TRUE,img18,Web Development Class,March 1,,,,img18.jpg,20220301-WebDev-inperson.jpg,17,sketches_item,sketches,"/img/derivatives/iiif/images/img18/full/250,/0/default.jpg","/img/derivatives/iiif/images/img18/full/1140,/0/default.jpg",/img/derivatives/iiif/img18/manifest.json
-TRUE,img19,Center for Faculty Advancement,Mar 2,,,,img19.jpg,20220302-CFA.jpg,18,sketches_item,sketches,"/img/derivatives/iiif/images/img19/full/250,/0/default.jpg","/img/derivatives/iiif/images/img19/full/1140,/0/default.jpg",/img/derivatives/iiif/img19/manifest.json
-TRUE,img20,CRT in Libraries,Mar 4,,,,img20.jpg,20220304-CRTinLibraries.jpg,19,sketches_item,sketches,"/img/derivatives/iiif/images/img20/full/250,/0/default.jpg","/img/derivatives/iiif/images/img20/full/1140,/0/default.jpg",/img/derivatives/iiif/img20/manifest.json
-TRUE,img21,Next Generation Dissertations,Mar 7,,,,img21.jpg,20220307-NextGenDiss.jpg,20,sketches_item,sketches,"/img/derivatives/iiif/images/img21/full/250,/0/default.jpg","/img/derivatives/iiif/images/img21/full/1140,/0/default.jpg",/img/derivatives/iiif/img21/manifest.json
-TRUE,img22,Iris Bierlein,Mar 8,6:20,Iris Bierlein,,img22.jpg,20220308-Iris-inset.jpg,21,sketches_item,sketches,"/img/derivatives/iiif/images/img22/full/250,/0/default.jpg","/img/derivatives/iiif/images/img22/full/1140,/0/default.jpg",/img/derivatives/iiif/img22/manifest.json
-TRUE,img23,Web Development Class: UX,Mar 8,6:20 PM,Iris Bierlein,,img22a.jpg,20220308-WebDev-UX-Iris.jpg,22,sketches_item,sketches,"","",""
-TRUE,img24,Kevorkian Center: Earth II,Mar 9,,,,img24.jpg,20220309-Kevo.jpg,23,sketches_item,sketches,"/img/derivatives/iiif/images/img24/full/250,/0/default.jpg","/img/derivatives/iiif/images/img24/full/1140,/0/default.jpg",/img/derivatives/iiif/img24/manifest.json
-TRUE,img25,Controlled Digital Lending,Mar 10,,,,img25.jpg,20220310-ControlledDigitalLending.jpg,24,sketches_item,sketches,"/img/derivatives/iiif/images/img25/full/250,/0/default.jpg","/img/derivatives/iiif/images/img25/full/1140,/0/default.jpg",/img/derivatives/iiif/img25/manifest.json
-TRUE,img26,On Freedom: Maggie Nelson and Wayne Koestenbaum,Mar 10,,"Wayne Koestenbaum, Maggie Nelson",,img26.jpg,20220310-Nelson-Koestenbaum.jpg,25,sketches_item,sketches,"/img/derivatives/iiif/images/img26/full/250,/0/default.jpg","/img/derivatives/iiif/images/img26/full/1140,/0/default.jpg",/img/derivatives/iiif/img26/manifest.json
-TRUE,img27,Washington Square Arch,Mar 10,,,,img27.jpg,20220310-websitesketch-WashingtonSq.jpg,26,sketches_item,sketches,"/img/derivatives/iiif/images/img27/full/250,/0/default.jpg","/img/derivatives/iiif/images/img27/full/1140,/0/default.jpg",/img/derivatives/iiif/img27/manifest.json
-TRUE,img28,New Hampshire,March 14,,,,img28.jpg,20220314-NH.jpg,27,sketches_item,sketches,"/img/derivatives/iiif/images/img28/full/250,/0/default.jpg","/img/derivatives/iiif/images/img28/full/1140,/0/default.jpg",/img/derivatives/iiif/img28/manifest.json
-TRUE,img29,Web Development Midterm,March 22,,,,img29.jpg,20220322-WebDev-midterm.jpg,28,sketches_item,sketches,"/img/derivatives/iiif/images/img29/full/250,/0/default.jpg","/img/derivatives/iiif/images/img29/full/1140,/0/default.jpg",/img/derivatives/iiif/img29/manifest.json
-TRUE,img30,Web Development Class: CMSes,Mar 29,6:20 PM,Zach Coble,,img30.jpg,20220329-WebDev-CMS.jpg,29,sketches_item,sketches,"/img/derivatives/iiif/images/img30/full/250,/0/default.jpg","/img/derivatives/iiif/images/img30/full/1140,/0/default.jpg",/img/derivatives/iiif/img30/manifest.json
-TRUE,,,,,,,,,30,sketches_item,sketches,"","",""
-TRUE,img32,Getty: Monuments,March 30,,,,img32.jpg,20220330-Getty-Monuments.jpg,31,sketches_item,sketches,"/img/derivatives/iiif/images/img32/full/250,/0/default.jpg","/img/derivatives/iiif/images/img32/full/1140,/0/default.jpg",/img/derivatives/iiif/img32/manifest.json
-TRUE,img33,Kevorkian Center: Air II,March 30,,,,img33.jpg,20220330-Kevo-AirII.jpg,32,sketches_item,sketches,"/img/derivatives/iiif/images/img33/full/250,/0/default.jpg","/img/derivatives/iiif/images/img33/full/1140,/0/default.jpg",/img/derivatives/iiif/img33/manifest.json
-TRUE,img34,Manifold Meeting,March 30,,,,img34.jpg,20220330-Manifold.jpg,33,sketches_item,sketches,"/img/derivatives/iiif/images/img34/full/250,/0/default.jpg","/img/derivatives/iiif/images/img34/full/1140,/0/default.jpg",/img/derivatives/iiif/img34/manifest.json
-TRUE,img35,Disability Studies Quarterly Launch,March 31,,,,img35.jpg,20220331-DSQ.jpg,34,sketches_item,sketches,"/img/derivatives/iiif/images/img35/full/250,/0/default.jpg","/img/derivatives/iiif/images/img35/full/1140,/0/default.jpg",/img/derivatives/iiif/img35/manifest.json
-TRUE,img36,Web Development Class: Minimal Computing,April 5,,,,img36.jpg,20220405-WebDev-part2-minicomp.jpg,35,sketches_item,sketches,"/img/derivatives/iiif/images/img36/full/250,/0/default.jpg","/img/derivatives/iiif/images/img36/full/1140,/0/default.jpg",/img/derivatives/iiif/img36/manifest.json
-TRUE,img37,Web Development Class: Colors,April 5,,,,img37.jpg,20220405-WebDevColors.jpg,36,sketches_item,sketches,"/img/derivatives/iiif/images/img37/full/250,/0/default.jpg","/img/derivatives/iiif/images/img37/full/1140,/0/default.jpg",/img/derivatives/iiif/img37/manifest.json
-TRUE,img38,Kevorkian Center: Fire II,April 6,,,,img38.jpg,20220406-KevoFireII.jpg,37,sketches_item,sketches,"/img/derivatives/iiif/images/img38/full/250,/0/default.jpg","/img/derivatives/iiif/images/img38/full/1140,/0/default.jpg",/img/derivatives/iiif/img38/manifest.json
-TRUE,img39,Culture Mapping,April 7,,,,img39.jpg,20220407-CultureMapping.jpg,38,sketches_item,sketches,"/img/derivatives/iiif/images/img39/full/250,/0/default.jpg","/img/derivatives/iiif/images/img39/full/1140,/0/default.jpg",/img/derivatives/iiif/img39/manifest.json
-TRUE,img40,Library Lab,April 7,,,,img40.jpg,20220407-LibraryLab.jpg,39,sketches_item,sketches,"/img/derivatives/iiif/images/img40/full/250,/0/default.jpg","/img/derivatives/iiif/images/img40/full/1140,/0/default.jpg",/img/derivatives/iiif/img40/manifest.json
-TRUE,img41,International Virginia Woolf Society Celebrates the Oxford University Press Handbook of Virginia Woolf,April 8,,,,img41.jpg,20220408-IVWS-OUP.jpg,40,sketches_item,sketches,"/img/derivatives/iiif/images/img41/full/250,/0/default.jpg","/img/derivatives/iiif/images/img41/full/1140,/0/default.jpg",/img/derivatives/iiif/img41/manifest.json
-TRUE,img42,Web Development Class: Sustainability and Stewardship,April 12,6:20 PM,Zach Coble,,img42.jpg,20220412-WebDev-Zoom.jpg,41,sketches_item,sketches,"/img/derivatives/iiif/images/img42/full/250,/0/default.jpg","/img/derivatives/iiif/images/img42/full/1140,/0/default.jpg",/img/derivatives/iiif/img42/manifest.json
-TRUE,img43,Reverie 3: Wayne Koestenbaum and Gabriel Ojeda Sagué,April 14,7:00 PM,"Wayne Koestenbaum, Gabriel Ojeda Sagué",,img43.jpg,20220414-WayneGabriel.jpg,42,sketches_item,sketches,"/img/derivatives/iiif/images/img43/full/250,/0/default.jpg","/img/derivatives/iiif/images/img43/full/1140,/0/default.jpg",/img/derivatives/iiif/img43/manifest.json
-TRUE,img44,Covid Collections: Documenting the Pandemic Roundtable Discussion,April 17,12:00 PM,"Jacob Remes, Valerie Marlowe, Ellen Noonan, Libby Bischof, Lauren Hall-Lew, Mark Tebeau",,img44.jpg,20220417-Covid-Collections.jpg,43,sketches_item,sketches,"/img/derivatives/iiif/images/img44/full/250,/0/default.jpg","/img/derivatives/iiif/images/img44/full/1140,/0/default.jpg",/img/derivatives/iiif/img44/manifest.json
-TRUE,img45,Web Development Class with Alex Provo,April 18,6:20 PM,Alex Provo,,img45.jpg,20220418_WebDev_Provo.jpg,44,sketches_item,sketches,"/img/derivatives/iiif/images/img45/full/250,/0/default.jpg","/img/derivatives/iiif/images/img45/full/1140,/0/default.jpg",/img/derivatives/iiif/img45/manifest.json
-TRUE,img46,Aesthetics of Access in Dance,April 21,4:00 PM,"Yo-Yo Lin, Kayla Hamilton, Christopher Unpezverde Nuñez",,img46.jpg,20220421_AestheticsofAccess.jpg,45,sketches_item,sketches,"/img/derivatives/iiif/images/img46/full/250,/0/default.jpg","/img/derivatives/iiif/images/img46/full/1140,/0/default.jpg",/img/derivatives/iiif/img46/manifest.json
-TRUE,img47,The State of Sustainability Address ,April 21,5:00 PM,,,img47.jpg,20220421_NYUSustainability.jpg,46,sketches_item,sketches,"/img/derivatives/iiif/images/img47/full/250,/0/default.jpg","/img/derivatives/iiif/images/img47/full/1140,/0/default.jpg",/img/derivatives/iiif/img47/manifest.json
-TRUE,img48,NYPL Live: The Internet Archive at 25,April 25,7:00 PM,"Brewster Kahle, Tony Marx",,img48.jpg,20220425-NYPLLiveKahleMarx.jpg,47,sketches_item,sketches,"/img/derivatives/iiif/images/img48/full/250,/0/default.jpg","/img/derivatives/iiif/images/img48/full/1140,/0/default.jpg",/img/derivatives/iiif/img48/manifest.json
-TRUE,img49,Exoticizing in Collecting Institutions: Confronting the Façade of Representation in Colonial Knowledge Systems and Creating Tactics for Indigenous Agency,April 26,1:00 PM,Durante Blais-Billie,,img49.jpg,20220426_BlaisBillie_Exoticizing.jpg,48,sketches_item,sketches,"/img/derivatives/iiif/images/img49/full/250,/0/default.jpg","/img/derivatives/iiif/images/img49/full/1140,/0/default.jpg",/img/derivatives/iiif/img49/manifest.json
-TRUE,img50,Technology and Digital Tools Drop-In,April 26,2:00 PM,Sam Mandani,,img50.jpg,20220426_TechandDigitalTools.jpg,49,sketches_item,sketches,"/img/derivatives/iiif/images/img50/full/250,/0/default.jpg","/img/derivatives/iiif/images/img50/full/1140,/0/default.jpg",/img/derivatives/iiif/img50/manifest.json
-TRUE,img51,Web Development Class with David Arjanik,April 26,18:20,David Arjanik,,img51.jpg,20220426_WebDev_Arjanik.jpg,50,sketches_item,sketches,"/img/derivatives/iiif/images/img51/full/250,/0/default.jpg","/img/derivatives/iiif/images/img51/full/1140,/0/default.jpg",/img/derivatives/iiif/img51/manifest.json
-TRUE,img52,Open Humanities Seminar Series,April 27,9:00 AM,Barbara McGillivray,"humanities data, open humanities, open data",img52.jpg,20220427_OpenHumanitiesData.jpg,51,sketches_item,sketches,"/img/derivatives/iiif/images/img52/full/250,/0/default.jpg","/img/derivatives/iiif/images/img52/full/1140,/0/default.jpg",/img/derivatives/iiif/img52/manifest.json
-TRUE,img23a,SPARC Breaking Down Silos in Open Education: Strategies for Collaboration,March 8,1:00 PM,,,img23a.jpg,20220308-SPARC.jpg,52,sketches_item,sketches,"/img/derivatives/iiif/images/img23a/full/250,/0/default.jpg","/img/derivatives/iiif/images/img23a/full/1140,/0/default.jpg",/img/derivatives/iiif/img23a/manifest.json
-TRUE,img42a,Fairleigh Dickinson University: Myth and Nostalgia in America,April 11,7:00 PM,"Bruce Peabody, Gloria Pastorino, Ken Sammond",,img42a.jpg,20220411_FDU.jpg,53,sketches_item,sketches,"/img/derivatives/iiif/images/img42a/full/250,/0/default.jpg","/img/derivatives/iiif/images/img42a/full/1140,/0/default.jpg",/img/derivatives/iiif/img42a/manifest.json
+done,pid,label,speaker,_date,time,topics,local_image,original_image
+TRUE,img01,Web Development Class Zoom,Zach Coble,1/25/2022,18:20,introduction,img01.jpg,20220125-WebDevZoom.jpg
+TRUE,img02,Web Development Class Zoom,Zach Coble,2/1/2022,6:20 PM,,img02.jpg,20220201-WebDevZoom.jpg
+TRUE,img03,Black Global Consciousness,"Ann Morning, Angela Davis",2/2/2022,10:30 AM,,img03.jpg,20220202-MLKWeek-BlackGlobalConscioussness.jpg
+TRUE,img04,NYCDH Week: Support,,2/7/2022,2:30 PM,DH,img04.jpg,20220207-NYCDH-Support.jpg
+TRUE,img05,NYCDH Week: Kickoff,,2/7/2022,12:00 PM,,img05.jpg,20220207-NYCDHKickoff.jpg
+TRUE,img06,Web Development Class Mercer,Zach Coble,2/8/2022,6:20 PM,,img06.jpg,20220208-WebDev-Mercer.jpg
+TRUE,img07,NYCDH Week: The Web Is All You Need,Ben Schmidt,2/10/2022,3:00 PM,,img07.jpg,20220210-NYCDH-DataAnalysis-Ben.jpg
+TRUE,img08,NYCDH Week: Seed to Scale,,2/10/2022,11:00 AM,,img08.jpg,20220210-NYCDH-SeedtoScale.jpg
+TRUE,img09,Woolf Salon: Friendships Gallery,,2/11/2022,4:00 PM,,img09.jpg,20220211-WoolfSalon.jpg
+TRUE,img10,Manifold Meetup,,2/15/2022,,,img10.jpg,20220215-ManifoldMeetup.jpg
+TRUE,img11,Web Development Class,,2/15/2022,,,img11.jpg,20220215-WebDev-websitepresentation.jpg
+TRUE,img12,Provost's Postdoctoral Fellow Meeting,,2/16/2022,,,img12.jpg,20220216-ProvostsPostdoc.jpg
+TRUE,img13,Manifold Orientation,,2/16/2022,,,img13.jpg,20220217-ManifoldOrientation.jpg
+TRUE,img14,Teaching Machines,Audrey Watters,2/17/2022,,,img14.jpg,20220217-TeachingMachines-Watters.jpg
+TRUE,img15,Multimodal Digital Publishing 1,,2/24/2022,,,img15.jpg,20220224-MultimodalDigitalPublishing.jpg
+TRUE,img16,Multimodal Digital Publishing 2,,2/24/2022,,,img16.jpg,20220224-MultimodalDigitalPublishing1.jpg
+TRUE,img17,Multimodal Digital Publishing 3,,2/24/2022,,,img17.jpg,20220224-MultimodalDigitalPublishing2.jpg
+TRUE,img18,Web Development Class,,3/1/2022,,,img18.jpg,20220301-WebDev-inperson.jpg
+TRUE,img19,Center for Faculty Advancement,,3/2/2022,,,img19.jpg,20220302-CFA.jpg
+TRUE,img20,CRT in Libraries,,3/4/2022,,,img20.jpg,20220304-CRTinLibraries.jpg
+TRUE,img21,Next Generation Dissertations,,3/7/2022,,,img21.jpg,20220307-NextGenDiss.jpg
+TRUE,img22,Iris Bierlein,Iris Bierlein,3/8/2022,6:20,,img22.jpg,20220308-Iris-inset.jpg
+TRUE,img23,Web Development Class: UX,Iris Bierlein,3/8/2022,6:20 PM,,img23.jpg,20220308-WebDev-UX-Iris.jpg
+TRUE,img23a,SPARC Breaking Down Silos in Open Education: Strategies for Collaboration,,3/8/2022,1:00 PM,,img23a.jpg,20220308-SPARC.jpg
+TRUE,img24,Kevorkian Center: Earth II,,3/9/2022,,,img24.jpg,20220309-Kevo.jpg
+TRUE,img25,Controlled Digital Lending,,3/10/2022,,,img25.jpg,20220310-ControlledDigitalLending.jpg
+TRUE,img26,On Freedom: Maggie Nelson and Wayne Koestenbaum,"Wayne Koestenbaum, Maggie Nelson",3/10/2022,,,img26.jpg,20220310-Nelson-Koestenbaum.jpg
+TRUE,img27,Washington Square Arch,,3/10/2022,,,img27.jpg,20220310-websitesketch-WashingtonSq.jpg
+TRUE,img28,New Hampshire,,3/14/2022,,,img28.jpg,20220314-NH.jpg
+TRUE,img29,Web Development Midterm,,3/22/2022,,,img29.jpg,20220322-WebDev-midterm.jpg
+TRUE,img30,Web Development Class: CMSes,Zach Coble,3/29/2022,6:20 PM,,img30.jpg,20220329-WebDev-CMS.jpg
+TRUE,img32,Getty: Monuments,,3/30/2022,,,img32.jpg,20220330-Getty-Monuments.jpg
+TRUE,img33,Kevorkian Center: Air II,,3/30/2022,,,img33.jpg,20220330-Kevo-AirII.jpg
+TRUE,img34,Manifold Meeting,,3/30/2022,,,img34.jpg,20220330-Manifold.jpg
+TRUE,img35,Disability Studies Quarterly Launch,,3/31/2022,,,img35.jpg,20220331-DSQ.jpg
+TRUE,img36,Web Development Class: Minimal Computing,,4/5/2022,,,img36.jpg,20220405-WebDev-part2-minicomp.jpg
+TRUE,img37,Web Development Class: Colors,,4/5/2022,,,img37.jpg,20220405-WebDevColors.jpg
+TRUE,img38,Kevorkian Center: Fire II,,4/6/2022,,,img38.jpg,20220406-KevoFireII.jpg
+TRUE,img39,Culture Mapping,,4/7/2022,,,img39.jpg,20220407-CultureMapping.jpg
+TRUE,img40,Library Lab,,4/7/2022,,,img40.jpg,20220407-LibraryLab.jpg
+TRUE,img41,International Virginia Woolf Society Celebrates the Oxford University Press Handbook of Virginia Woolf,,4/8/2022,,,img41.jpg,20220408-IVWS-OUP.jpg
+TRUE,img42,Web Development Class: Sustainability and Stewardship,Zach Coble,4/12/2022,6:20 PM,,img42.jpg,20220412-WebDev-Zoom.jpg
+TRUE,img42a,Fairleigh Dickinson University: Myth and Nostalgia in America,"Bruce Peabody, Gloria Pastorino, Ken Sammond",4/11/2022,7:00 PM,,img42a.jpg,20220411_FDU.jpg
+TRUE,img43,Reverie 3: Wayne Koestenbaum and Gabriel Ojeda Sagué,"Wayne Koestenbaum, Gabriel Ojeda Sagué",4/14/2022,7:00 PM,,img43.jpg,20220414-WayneGabriel.jpg
+TRUE,img44,Covid Collections: Documenting the Pandemic Roundtable Discussion,"Jacob Remes, Valerie Marlowe, Ellen Noonan, Libby Bischof, Lauren Hall-Lew, Mark Tebeau",4/17/2022,12:00 PM,,img44.jpg,20220417-Covid-Collections.jpg
+TRUE,img45,Web Development Class with Alex Provo,Alex Provo,4/18/2022,6:20 PM,,img45.jpg,20220418_WebDev_Provo.jpg
+TRUE,img46,Aesthetics of Access in Dance,"Yo-Yo Lin, Kayla Hamilton, Christopher Unpezverde Nuñez",4/21/2022,4:00 PM,,img46.jpg,20220421_AestheticsofAccess.jpg
+TRUE,img47,The State of Sustainability Address ,,4/21/2022,5:00 PM,,img47.jpg,20220421_NYUSustainability.jpg
+TRUE,img48,NYPL Live: The Internet Archive at 25,"Brewster Kahle, Tony Marx",4/25/2022,7:00 PM,,img48.jpg,20220425-NYPLLiveKahleMarx.jpg
+TRUE,img49,Exoticizing in Collecting Institutions: Confronting the Façade of Representation in Colonial Knowledge Systems and Creating Tactics for Indigenous Agency,Durante Blais-Billie,4/26/2022,1:00 PM,,img49.jpg,20220426_BlaisBillie_Exoticizing.jpg
+TRUE,img50,Technology and Digital Tools Drop-In,Sam Mandani,4/26/2022,2:00 PM,,img50.jpg,20220426_TechandDigitalTools.jpg
+TRUE,img51,Web Development Class with David Arjanik,David Arjanik,4/26/2022,18:20,,img51.jpg,20220426_WebDev_Arjanik.jpg
+TRUE,img52,Open Humanities Seminar Series,Barbara McGillivray,4/27/2022,9:00 AM,"humanities data, open humanities, open data",img52.jpg,20220427_OpenHumanitiesData.jpg
