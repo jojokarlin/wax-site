@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Search the Collection
 permalink: /search/
+title: Search the Collection
+
 ---
 
 {% include search_box.html search='main' %}
