@@ -109,7 +109,7 @@ menu:
         link: '/credits/'
   - label: 'Exhibits'
     sub:
-      - label: 'Inline Parallax Image'
+      - label: 'Inline Parallax Sketch'
         link: '/exhibits/a/'
       - label: 'Inline Image References'
         link: '/exhibits/b/'
