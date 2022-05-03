@@ -85,9 +85,9 @@ header & nav bar
       background-color: $bg-color;
     }
     .dropdown-menu {
+      z-index: 10000020;
       background-color: $bg-color;
       border-color: $neutral;
-      z-index: 10000;
       .dropdown-item:focus {
         background-color: transparent;
       }
