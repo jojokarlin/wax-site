@@ -1,6 +1,6 @@
 ---
 layout: exhibit
-title: 'Exhibit A: Inline Parallax Image'
+title: 'Exhibit A: About Process'
 author: Jojo Karlin
 permalink: /exhibits/a/
 ---
