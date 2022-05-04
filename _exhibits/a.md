@@ -5,9 +5,9 @@ author: Jojo Karlin
 permalink: /exhibits/a/
 ---
 
-Oh to understand how these images will appear! I worked my way through the template as I revisit all the drawings from the semster.
+Oh to understand how these images will appear! I worked my way through the template as I revisited all the drawings from the semster.
 
-I was concerned that these essays will be impoverished because of the long swathes of time that stretched between windows on my computer trying to reconcile filenames and image compressions and directories on directories.
+I was concerned that these essays would be impoverished because of the long swathes of time that stretched between windows on my computer trying to reconcile filenames and image compressions and directories on directories.
 
 Ideally, the liquid includes functions work seamlessly. In practice, you sometimes miss some things.
 
@@ -36,6 +36,7 @@ bundle exec rake wax:pages sketches
 bundle exec rake wax:search sketches
 ```
 These seem to have worked!
-I spent some more time trying to tidy topics in my spreadsheet (still not finished) and figure out the dropdown that was falling behind the nav items. I learned about z index and I still didn't fix it until I demoted the nav items.
 
-All in all, it's coming along well.
+I spent some more time trying to tidy topics in my spreadsheet (still not finished) and figure out the dropdown that was falling behind the nav items. I learned about z-index and I still didn't fix it until I demoted the nav items' z-index.
+
+All in all, it's a fair representation of the work of the semester, the group moving through the weeks, the swirl of academic activity happening across Zoom. I wonder a little if the shuffle of items on the wax site fairly represents the chaos of the stacks of paper, the scrawled notes. I had to cross-reference my calendar more often than I expected. Pulling together these details gives me a much clearer sense of the time and attention required to create metadata even on a small scale.
